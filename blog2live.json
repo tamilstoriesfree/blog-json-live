@@ -1,0 +1,54 @@
+{
+	"title": "தமிழ் செக்ஸ்",
+	"drawable": "",
+	"submenu": "தளங்கள்",
+	"iap": false,
+	"tabs": [{
+		"title": "புதியவை",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"2"]
+	},
+	{
+		"title": "காம கதைகள்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"10"]
+	},
+	{
+		"title": "தினமொரு பாகம்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"12"]
+	},
+	{
+		"title": "ஆண்டி கதைகள்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"11"]
+	},
+	{
+		"title": "உறவுகள்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"5"]
+	},
+	{
+		"title": "தமிழ் நடிகைகள்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"14"]
+	},
+	{
+		"title": "காம சூத்ரா",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"9"]
+	},
+	{
+		"title": "தமிழ் டாக்டர்",
+		"provider": "wordpress",
+		"arguments": ["https://tamilsex.co/wp-json/wp/v2/",
+		"7"]
+	}]
+},

@@ -1,0 +1,37 @@
+{
+	"title": "காம கதைகள் ப்ளாக்",
+	"drawable": "",
+	"submenu": "தளங்கள்",
+	"iap": false,
+	"tabs": [{
+		"title": "பகுதி-1",
+		"provider": "wordpress",
+		"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+		"94"]
+	},
+	{
+		"title": "பகுதி-2",
+		"provider": "wordpress",
+		"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+		"100"]
+	},
+	{
+		"title": "பகுதி-3",
+		"provider": "wordpress",
+		"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+		"8"]
+	},
+	{
+		"title": "பகுதி-4",
+		"provider": "wordpress",
+		"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+		"88"]
+	},
+	{
+		"title": "பகுதி-5",
+		"provider": "wordpress",
+		"arguments": ["https://tamilkamakathaikalblog.com/wp-json/wp/v2/",
+		"89"]
+	}
+	]
+},

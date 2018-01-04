@@ -1,0 +1,70 @@
+{
+		"title": "காமவெறி தளம்",
+		"drawable": "",
+		"submenu": "தளங்கள்",
+		"iap": false,
+		"tabs": [{
+				"title": "ஜோடிகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"62"
+				]
+			},
+			{
+				"title": "குடும்ப கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"59"
+				]
+			},
+			{
+				"title": "இளம் பெண்கள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"58"
+				]
+			},
+			{
+				"title": "ஆண்டி கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"60"
+				]
+			},
+			{
+				"title": "லெஸ்பியன்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"63"
+				]
+			},
+			{
+				"title": "குரூப் கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"70"
+				]
+			},
+			{
+				"title": "சிறந்த கதைகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"41"
+				]
+			},
+			{
+				"title": "தங்க்லிஷ்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"56"
+				]
+			},
+			{
+				"title": "செய்திகள்",
+				"provider": "wordpress",
+				"arguments": ["https://tamilkamaveri.com/wp-json/wp/v2/",
+					"61"
+				]
+			}
+		]
+	},

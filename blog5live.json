@@ -1,0 +1,25 @@
+{
+	"title": "தமிழ் எக்ஸ் கதை",
+	"drawable": "",
+	"submenu": "தளங்கள்",
+	"iap": false,
+	"tabs": [{
+		"title": "பகுதி-1",
+		"provider": "wordpress",
+		"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+		"70"]
+	},
+	{
+		"title": "பகுதி-2",
+		"provider": "wordpress",
+		"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+		"1"]
+	},
+	{
+		"title": "பகுதி-3",
+		"provider": "wordpress",
+		"arguments": ["https://tamilxkathai.com/wp-json/wp/v2/",
+		"110"]
+	}
+	]
+},
